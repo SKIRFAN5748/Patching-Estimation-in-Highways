@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pathhole']
+
+roboflow:
+  workspace: a-x9xhl
+  project: path-anzlo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/a-x9xhl/path-anzlo/dataset/1
