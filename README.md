@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 4. **Run the script**
 ```bash
-python detection_script.py
+final_code.py
 ```
 
 ---
